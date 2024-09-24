@@ -5,7 +5,7 @@ Learn More About Me!
 
 ## 🪻 About Me
 
-As a 4th-year Computer Science Honours student, my journey through cs has been marked by a relentless pursuit of knowledge & constantly seeking to apply this knowledge in practical, impactful ways.
+As a 4th-year Computer Science Honours Specialization in Data Science student, my journey through cs has been marked by a relentless pursuit of knowledge & constantly seeking to apply this knowledge in practical, impactful ways.
 
 ## 🍡 My Interests
 
