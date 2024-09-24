@@ -1,9 +1,7 @@
-# README.md
+# Hi There!!!! I'm Tina!!! 🌇🎱🥡🫧👩🏻‍💻🧠
 Learn More About Me!
 
 ---
-
-# Hi There!!!! I'm Tina!!! 🌇🎱🥡🫧👩🏻‍💻🧠
 
 ## 🪻 About Me
 
