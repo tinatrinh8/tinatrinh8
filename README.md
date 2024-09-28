@@ -28,6 +28,7 @@ I've had the opportunity to work with a wide array of programming languages, dev
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -53,7 +54,8 @@ I've had the opportunity to work with a wide array of programming languages, dev
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-5E2750?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
 <p>
@@ -66,6 +68,8 @@ I've had the opportunity to work with a wide array of programming languages, dev
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
   <img alt="Lightroom" src="https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
+  <img alt="After Effects" src="https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
+
 </p>
 
 ˚ ༘ ೀ⋆｡˚
