@@ -22,7 +22,7 @@ I've had the opportunity to work with a wide array of programming languages, dev
 ˚ ༘ ೀ⋆｡˚
 
 <p>
-  <strong> Software Languages</strong>
+  <strong> Software Languages: </strong>
   <br>
   
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
