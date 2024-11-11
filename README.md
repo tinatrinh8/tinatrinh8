@@ -11,9 +11,9 @@ As a 4th-year Computer Science Honours Specialization in Data Science student, m
 
 ## 🍡 My Interests
 
+- **Data Science**: My interest extends into the realm of data science, uncovring insights and make informed decisions through data analysis and visualization.
 - **Web Development**: I'm fascinated by the process of bringing designs to life in the browser. Crafting intuitive and dynamic user experiences.
 - **Front-End**: I'm particularly interested in front-end development, where I can combine creativity with technology to create visually appealing and user-friendly interfaces.
-- **Data Science**: My interest extends into the realm of data science, uncovring insights and make informed decisions through data analysis and visualization.
 
 ## 🩰 My Coding Experience 
 
