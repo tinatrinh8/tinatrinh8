@@ -11,9 +11,16 @@ As a 4th-year Computer Science Honours Specialization in Data Science student, m
 
 ## 🍡 My Interests
 
-- **Data Science**: My interest extends into the realm of data science, uncovring insights and make informed decisions through data analysis and visualization.
+- **Data Science**: My interest extends into the realm of data science, uncovering insights and make informed decisions through data analysis and visualization.
 - **Web Development**: I'm fascinated by the process of bringing designs to life in the browser. Crafting intuitive and dynamic user experiences.
 - **Front-End**: I'm particularly interested in front-end development, where I can combine creativity with technology to create visually appealing and user-friendly interfaces.
+
+## 🧋 What I’m Working On
+
+- 🎓 Honours Thesis: MoodLight – a mood journaling app powered by NLP and neural networks to visualize emotions and discover patterns in mental health.
+- 🤖 Exploring AI + Film: Researching ways to use computer science to enhance creative storytelling and video editing (without replacing the artist!).
+- 🛰️ Internship @ RCMP: Contributing front-end engineering work for internal web tools and help with DevOps projects like SBOM automation and cybersecurity tools.
+- 🔍 Currently learning: TensorFlow, TREC_EVAL, and model evaluation metrics like MAP & P@10.
 
 ## 🩰 My Coding Experience 
 
