@@ -17,7 +17,6 @@ As a 4th-year Computer Science Honours Specialization in Data Science student, m
 
 ## 🧋 What I’m Working On
 
-- 🎓 Honours Thesis: MoodLight – a mood journaling app powered by NLP and neural networks to visualize emotions and discover patterns in mental health.
 - 🤖 Exploring AI + Film: Researching ways to use computer science to enhance creative storytelling and video editing (without replacing the artist!).
 - 🛰️ Internship @ RCMP: Contributing front-end engineering work for internal web tools and help with DevOps projects like SBOM automation and cybersecurity tools.
 - 🔍 Currently learning: TensorFlow, TREC_EVAL, and model evaluation metrics like MAP & P@10.
